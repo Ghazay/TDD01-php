@@ -1,0 +1,19 @@
+{
+    "name": "jerome.heurtin/tdd01-php",
+    "require": {
+        "phpunit/php-timer": "^5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {"TDD01\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Jerome Heurtin",
+            "email": "jheurtin@octo.com"
+        }
+    ],
+    "description": ""
+}
